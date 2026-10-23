@@ -1,0 +1,976 @@
+{
+  "course": "CS5285",
+  "term": "Semester A 2026/27",
+  "updated": "2026-10-23",
+  "items": [
+    {
+      "title": "Problem Set 1 — 说明",
+      "path": "materials/official/assignments/problem-set-01/README.md",
+      "url": "materials/official/assignments/problem-set-01/README.md",
+      "category": "作业说明",
+      "weeks": [
+        6
+      ],
+      "week_basis": "截止周按 PS1 Week 6 日期推算；不等同于布置周",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/assignments/328331"
+      ],
+      "canvas_file_ids": [],
+      "size": 552,
+      "sha256": "a846629833ce5aa371c5f2d473e3ffd8e4ad478c1ea46264d5f14ed89f9b635a",
+      "keywords": ""
+    },
+    {
+      "title": "ps1_2026_HK.pdf",
+      "path": "materials/official/assignments/problem-set-01/questions/ps1_2026_HK.pdf",
+      "url": "materials/official/assignments/problem-set-01/questions/ps1_2026_HK.pdf",
+      "category": "计分作业",
+      "weeks": [
+        6
+      ],
+      "week_basis": "PS1 截止在 Week 6；见 Canvas 作业说明",
+      "sha256": "7b767f09edd5ffd40f9d92047289baffd26d340797aa0ea94bf96d1aadbec311",
+      "size": 108275,
+      "canvas_file_ids": [
+        "16055464"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16055464"
+      ],
+      "remote_updated_at": "2026-10-07T14:41:38Z",
+      "current_access_status": "skipped",
+      "keywords": ""
+    },
+    {
+      "title": "PS1_Solutions_HK.pdf",
+      "path": "materials/official/assignments/problem-set-01/solutions/PS1_Solutions_HK.pdf",
+      "url": "materials/official/assignments/problem-set-01/solutions/PS1_Solutions_HK.pdf",
+      "category": "作业官方答案",
+      "weeks": [
+        6
+      ],
+      "week_basis": "PS1 截止在 Week 6；见 Canvas 作业说明",
+      "sha256": "3d0dfcb9ef15ff22cab79afd54cdbac3d4c826121feaefb87cabae64f80154f0",
+      "size": 725147,
+      "canvas_file_ids": [
+        "16293463"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16293463"
+      ],
+      "remote_updated_at": "2026-10-17T06:21:08Z",
+      "current_access_status": "skipped",
+      "keywords": ""
+    },
+    {
+      "title": "Problem Set 2 — 说明",
+      "path": "materials/official/assignments/problem-set-02/README.md",
+      "url": "materials/official/assignments/problem-set-02/README.md",
+      "category": "作业说明",
+      "weeks": [
+        13
+      ],
+      "week_basis": "截止周按 PS1 Week 6 日期推算；不等同于布置周",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/assignments/328332"
+      ],
+      "canvas_file_ids": [],
+      "size": 628,
+      "sha256": "48ca36622abea662287a369e0dfb8e01cf9b3a6b4c005168f863d91dad3a3019",
+      "keywords": ""
+    },
+    {
+      "title": "file3.txt",
+      "path": "materials/official/assignments/problem-set-02/attachments/file3.txt",
+      "url": "materials/official/assignments/problem-set-02/attachments/file3.txt",
+      "category": "作业附件",
+      "weeks": [
+        13
+      ],
+      "week_basis": "依据 Canvas PS2 附件引用；周次是截止周",
+      "sha256": "408f4af161da8d166e3dfbe8f166914e9d87951199fa463b98d70f6cc558e0fc",
+      "size": 223,
+      "canvas_file_ids": [
+        "15856267"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15856267"
+      ],
+      "remote_updated_at": "2026-09-22T11:14:51Z",
+      "current_access_status": "skipped",
+      "keywords": ""
+    },
+    {
+      "title": "PS2.pdf",
+      "path": "materials/official/assignments/problem-set-02/questions/PS2.pdf",
+      "url": "materials/official/assignments/problem-set-02/questions/PS2.pdf",
+      "category": "计分作业",
+      "weeks": [
+        13
+      ],
+      "week_basis": "2026-11-29 截止；由 PS1 Week 6 的日期按七天顺延，非发布周",
+      "sha256": "6982d8db16175988e3286710bb450fea0d32a383cad5b78ecc7f81827f124c8a",
+      "size": 160717,
+      "canvas_file_ids": [
+        "15856262"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15856262"
+      ],
+      "remote_updated_at": "2026-09-22T11:14:44Z",
+      "current_access_status": "skipped",
+      "keywords": ""
+    },
+    {
+      "title": "0. Additional Books",
+      "path": "materials/official/course-pages/0-additional-books.md",
+      "url": "materials/official/course-pages/0-additional-books.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/0-additional-books"
+      ],
+      "canvas_file_ids": [],
+      "size": 1195,
+      "sha256": "8539ab95bf133745e783e5d3d11167e06dfd28cfc31c9d154be1180eb5a061bb",
+      "keywords": ""
+    },
+    {
+      "title": "1.1 Human aspect of security",
+      "path": "materials/official/course-pages/1-dot-1-human-aspect-of-security.md",
+      "url": "materials/official/course-pages/1-dot-1-human-aspect-of-security.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/1-dot-1-human-aspect-of-security"
+      ],
+      "canvas_file_ids": [],
+      "size": 512,
+      "sha256": "0536d1009fd8af26a0eb1071f5b3831cfb694bc872eed641d040b9aaf5d24901",
+      "keywords": ""
+    },
+    {
+      "title": "1. Introductory Concepts of Security (Tutorial 1 + Reading)",
+      "path": "materials/official/course-pages/1-introductory-concepts-of-security-tutorial-1-+-reading.md",
+      "url": "materials/official/course-pages/1-introductory-concepts-of-security-tutorial-1-%2B-reading.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/1-introductory-concepts-of-security-tutorial-1-+-reading"
+      ],
+      "canvas_file_ids": [],
+      "size": 1198,
+      "sha256": "f26a054d775f337b6fc624ae7c7b360e2b7b39cd5367a2b25a7c274111854529",
+      "keywords": ""
+    },
+    {
+      "title": "2.1 TBL VM Setup",
+      "path": "materials/official/course-pages/2-dot-1-tbl-vm-setup.md",
+      "url": "materials/official/course-pages/2-dot-1-tbl-vm-setup.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/2-dot-1-tbl-vm-setup"
+      ],
+      "canvas_file_ids": [],
+      "size": 1114,
+      "sha256": "50374b9a6fd19309f3a62de1e670c0537c4c932af7cda739006236a8004d84fe",
+      "keywords": ""
+    },
+    {
+      "title": "2.2 Symmetric Encryption (Extra Reading)",
+      "path": "materials/official/course-pages/2-dot-2-symmetric-encryption-extra-reading.md",
+      "url": "materials/official/course-pages/2-dot-2-symmetric-encryption-extra-reading.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/2-dot-2-symmetric-encryption-extra-reading"
+      ],
+      "canvas_file_ids": [],
+      "size": 1071,
+      "sha256": "c3c66cc4bc47fcac98bda60643911d6f9b8e43cfdded911b9876a0d27166716b",
+      "keywords": ""
+    },
+    {
+      "title": "2.3 AES (for interest)",
+      "path": "materials/official/course-pages/2-dot-3-aes-for-interest.md",
+      "url": "materials/official/course-pages/2-dot-3-aes-for-interest.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/2-dot-3-aes-for-interest"
+      ],
+      "canvas_file_ids": [],
+      "size": 771,
+      "sha256": "254fed3c8c3ac4ca23b4759c5fc0dd58f2687e173fc0045816c948eb7733c7c5",
+      "keywords": ""
+    },
+    {
+      "title": "2.4 Zodiac 340 Code (Interest Only)",
+      "path": "materials/official/course-pages/2-dot-4-zodiac-340-code-interest-only.md",
+      "url": "materials/official/course-pages/2-dot-4-zodiac-340-code-interest-only.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/2-dot-4-zodiac-340-code-interest-only"
+      ],
+      "canvas_file_ids": [],
+      "size": 657,
+      "sha256": "80c1a6b3cdfe35f9002d8fc62b99817fadbc00bf0433fb26b213aefb4945d0f4",
+      "keywords": ""
+    },
+    {
+      "title": "2.5 Encryption Optional Exercise 1",
+      "path": "materials/official/course-pages/2-dot-5-encryption-optional-exercise-1.md",
+      "url": "materials/official/course-pages/2-dot-5-encryption-optional-exercise-1.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/2-dot-5-encryption-optional-exercise-1"
+      ],
+      "canvas_file_ids": [],
+      "size": 508,
+      "sha256": "c1a471330cacb29eaee72901f4b1e86df127b4ee0fabca64840e55b1e40eb15a",
+      "keywords": ""
+    },
+    {
+      "title": "2. Symmetric Encryption (Tutorial 2+3)",
+      "path": "materials/official/course-pages/2-symmetric-encryption-tutorial-2+3.md",
+      "url": "materials/official/course-pages/2-symmetric-encryption-tutorial-2%2B3.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/2-symmetric-encryption-tutorial-2+3"
+      ],
+      "canvas_file_ids": [],
+      "size": 2145,
+      "sha256": "a1953fd1d79bb5ca077f810bf020fce37c1586dfeba7df255c317f27088a828e",
+      "keywords": ""
+    },
+    {
+      "title": "3.1 Number Theory and Practical Security (Interest Only)",
+      "path": "materials/official/course-pages/3-dot-1-number-theory-and-practical-security-interest-only.md",
+      "url": "materials/official/course-pages/3-dot-1-number-theory-and-practical-security-interest-only.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/3-dot-1-number-theory-and-practical-security-interest-only"
+      ],
+      "canvas_file_ids": [],
+      "size": 1956,
+      "sha256": "d86f8c2bab6a3a7918c904040679f933eec09e8ccf7da0fda278061a05ddc338",
+      "keywords": ""
+    },
+    {
+      "title": "3. Number Theory (Tutorial 4)",
+      "path": "materials/official/course-pages/3-number-theory-tutorial-4.md",
+      "url": "materials/official/course-pages/3-number-theory-tutorial-4.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/3-number-theory-tutorial-4"
+      ],
+      "canvas_file_ids": [],
+      "size": 1080,
+      "sha256": "1fc8b6f0027e576a009d3f7cd8c12bc3fef4201d69d1546cabfc2f8dbe3809e4",
+      "keywords": ""
+    },
+    {
+      "title": "4. Asymmetric Encryption",
+      "path": "materials/official/course-pages/4-asymmetric-encryption.md",
+      "url": "materials/official/course-pages/4-asymmetric-encryption.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/4-asymmetric-encryption"
+      ],
+      "canvas_file_ids": [],
+      "size": 844,
+      "sha256": "37441bf892173ef37f249ad2dd330e7e593812cec6710023e2a594f06c038e11",
+      "keywords": ""
+    },
+    {
+      "title": "5.1 Signatures and hash (Reading for Interest)",
+      "path": "materials/official/course-pages/5-dot-1-signatures-and-hash-reading-for-interest.md",
+      "url": "materials/official/course-pages/5-dot-1-signatures-and-hash-reading-for-interest.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/5-dot-1-signatures-and-hash-reading-for-interest"
+      ],
+      "canvas_file_ids": [],
+      "size": 2359,
+      "sha256": "41b3707c7deaa03f8b667175c5f8fb8a7b45a66ceb40d845cb578f3a9540696d",
+      "keywords": ""
+    },
+    {
+      "title": "5.2 SHA-3 (Keccak) (for interest)",
+      "path": "materials/official/course-pages/5-dot-2-sha-3-keccak-for-interest.md",
+      "url": "materials/official/course-pages/5-dot-2-sha-3-keccak-for-interest.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/5-dot-2-sha-3-keccak-for-interest"
+      ],
+      "canvas_file_ids": [],
+      "size": 690,
+      "sha256": "fd4c62aa4e4e7484405857a8c3793780bdef4aa0c0c2db207260cb90d3ac380c",
+      "keywords": ""
+    },
+    {
+      "title": "5. Integrity (Tutorial 5)",
+      "path": "materials/official/course-pages/5-integrity-tutorial-5.md",
+      "url": "materials/official/course-pages/5-integrity-tutorial-5.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/5-integrity-tutorial-5"
+      ],
+      "canvas_file_ids": [],
+      "size": 720,
+      "sha256": "6c0bb8f0e47007705048d3ad49a15f4d43f11c0ef1bcac711e3b41e9d901e421",
+      "keywords": ""
+    },
+    {
+      "title": "6. Authentication (Tutorial 6)",
+      "path": "materials/official/course-pages/6-authentication-tutorial-6.md",
+      "url": "materials/official/course-pages/6-authentication-tutorial-6.md",
+      "category": "课程页面",
+      "weeks": [],
+      "week_basis": "保留 Canvas 原文，不按页面编号推断周次",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/pages/6-authentication-tutorial-6"
+      ],
+      "canvas_file_ids": [],
+      "size": 591,
+      "sha256": "276b172de5af6081ba9407281647d5eb272a8a9c02550f3aeda60c3163024999",
+      "keywords": ""
+    },
+    {
+      "title": "Mid-Term Quiz — 说明",
+      "path": "materials/official/exams/midterm-2026/README.md",
+      "url": "materials/official/exams/midterm-2026/README.md",
+      "category": "考试说明",
+      "weeks": [
+        8
+      ],
+      "week_basis": "截止周按 PS1 Week 6 日期推算；不等同于布置周",
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/assignments/328330"
+      ],
+      "canvas_file_ids": [],
+      "size": 367,
+      "sha256": "f7989bfc8f46c95018626a642e4888c968896a058cf3d4af67b73d57cfc06a7b",
+      "keywords": ""
+    },
+    {
+      "title": "Lecture 1-Introduction - HK - Notes.pdf",
+      "path": "materials/official/lectures/lecture-01/notes/Lecture 1-Introduction - HK - Notes.pdf",
+      "url": "materials/official/lectures/lecture-01/notes/Lecture%201-Introduction%20-%20HK%20-%20Notes.pdf",
+      "category": "教师讲义",
+      "weeks": [
+        1
+      ],
+      "week_basis": "Canvas 页面明确周次",
+      "sha256": "a71caac11cd278452ff05f1eb60d25f4a217fde820858fb8ae0ec5a92a44b5c3",
+      "size": 669320,
+      "canvas_file_ids": [
+        "15955320"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15955320"
+      ],
+      "remote_updated_at": "2026-09-07T09:31:06Z",
+      "current_access_status": "downloaded",
+      "keywords": "CIA security threat authentication 安全 威胁 标准"
+    },
+    {
+      "title": "Lecture 1-Introduction - HK - Slides.pdf",
+      "path": "materials/official/lectures/lecture-01/slides/Lecture 1-Introduction - HK - Slides.pdf",
+      "url": "materials/official/lectures/lecture-01/slides/Lecture%201-Introduction%20-%20HK%20-%20Slides.pdf",
+      "category": "课件",
+      "weeks": [
+        1
+      ],
+      "week_basis": "Canvas 页面明确周次",
+      "sha256": "776b1deb2062a02856a7390a1ee67e4de35cfcf10e43fd249f519290541c054c",
+      "size": 537275,
+      "canvas_file_ids": [
+        "15950982"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15950982"
+      ],
+      "remote_updated_at": "2026-09-04T10:27:41Z",
+      "current_access_status": "downloaded",
+      "keywords": "CIA security threat authentication 安全 威胁 标准"
+    },
+    {
+      "title": "Lecture 2- Symmetric-Key-Encryption - HK - Notes.pdf",
+      "path": "materials/official/lectures/lecture-02/notes/Lecture 2- Symmetric-Key-Encryption - HK - Notes.pdf",
+      "url": "materials/official/lectures/lecture-02/notes/Lecture%202-%20Symmetric-Key-Encryption%20-%20HK%20-%20Notes.pdf",
+      "category": "教师讲义",
+      "weeks": [
+        2,
+        3
+      ],
+      "week_basis": "Canvas 页面明确周次",
+      "sha256": "446d3aab343ba2ef404ea50f6a7f6c885793bd7b887671e9ad352da7801f1f87",
+      "size": 4079912,
+      "canvas_file_ids": [
+        "16045418"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16045418"
+      ],
+      "remote_updated_at": "2026-09-18T13:12:05Z",
+      "current_access_status": "downloaded",
+      "keywords": "AES DES Feistel CBC CTR CFB OFB XOR OTP symmetric 对称加密"
+    },
+    {
+      "title": "Lecture 2- Symmetric-Key-Encryption - HK - Slides.pdf",
+      "path": "materials/official/lectures/lecture-02/slides/Lecture 2- Symmetric-Key-Encryption - HK - Slides.pdf",
+      "url": "materials/official/lectures/lecture-02/slides/Lecture%202-%20Symmetric-Key-Encryption%20-%20HK%20-%20Slides.pdf",
+      "category": "课件",
+      "weeks": [
+        2,
+        3
+      ],
+      "week_basis": "Canvas 页面明确周次",
+      "sha256": "3dc96f3fb72624b69fc0adae548197649cdff28a22e3f9084eec782fb099e1b7",
+      "size": 4618582,
+      "canvas_file_ids": [
+        "15962174"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15962174"
+      ],
+      "remote_updated_at": "2026-09-07T12:56:15Z",
+      "current_access_status": "downloaded",
+      "keywords": "AES DES Feistel CBC CTR CFB OFB XOR OTP symmetric 对称加密"
+    },
+    {
+      "title": "Lecture 2- Symmetric-Key-Encryption - HK - Slides.pptx",
+      "path": "materials/official/lectures/lecture-02/slides/Lecture 2- Symmetric-Key-Encryption - HK - Slides.pptx",
+      "url": "materials/official/lectures/lecture-02/slides/Lecture%202-%20Symmetric-Key-Encryption%20-%20HK%20-%20Slides.pptx",
+      "category": "课件",
+      "weeks": [
+        2,
+        3
+      ],
+      "week_basis": "Canvas 页面明确周次",
+      "sha256": "3964dc8e8a562ddc7e99f9bbbc1a046e989e51881a22d86a5b4b83d525276b97",
+      "size": 10450078,
+      "canvas_file_ids": [
+        "15962176"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15962176"
+      ],
+      "remote_updated_at": "2026-09-08T06:36:29Z",
+      "current_access_status": "downloaded",
+      "keywords": "AES DES Feistel CBC CTR CFB OFB XOR OTP symmetric 对称加密"
+    },
+    {
+      "title": "Lecture 3- Number-Theory - Notes.pdf",
+      "path": "materials/official/lectures/lecture-03/notes/Lecture 3- Number-Theory - Notes.pdf",
+      "url": "materials/official/lectures/lecture-03/notes/Lecture%203-%20Number-Theory%20-%20Notes.pdf",
+      "category": "教师讲义",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "5cb2c30d24339862e1b32fea50aefc037e55e1a908ccda6f23c028d978300937",
+      "size": 604426,
+      "canvas_file_ids": [
+        "16067428"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067428"
+      ],
+      "remote_updated_at": "2026-10-14T10:32:24Z",
+      "current_access_status": "permission_denied",
+      "keywords": "RSA modular inverse exponentiation number theory 模幂 模逆 欧拉 数论"
+    },
+    {
+      "title": "Lecture 3- Number-Theory.pdf",
+      "path": "materials/official/lectures/lecture-03/slides/Lecture 3- Number-Theory.pdf",
+      "url": "materials/official/lectures/lecture-03/slides/Lecture%203-%20Number-Theory.pdf",
+      "category": "课件",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "ef0aa925326f4cd2d9e4d2f0d68c69ea9688b3f8bc6db3ac1991d8d9c0a055f6",
+      "size": 610059,
+      "canvas_file_ids": [
+        "16067423"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067423"
+      ],
+      "remote_updated_at": "2026-10-14T10:32:20Z",
+      "current_access_status": "permission_denied",
+      "keywords": "RSA modular inverse exponentiation number theory 模幂 模逆 欧拉 数论"
+    },
+    {
+      "title": "Lecture 4 - PKE Notes.pdf",
+      "path": "materials/official/lectures/lecture-04/notes/Lecture 4 - PKE Notes.pdf",
+      "url": "materials/official/lectures/lecture-04/notes/Lecture%204%20-%20PKE%20Notes.pdf",
+      "category": "教师讲义",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "9a05bb70421197d83b7c82dd0bdbb8bfbbb11f7b5fa927ea106f8e0fd49a76f2",
+      "size": 651145,
+      "canvas_file_ids": [
+        "16067572"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067572"
+      ],
+      "remote_updated_at": "2026-10-14T10:33:08Z",
+      "current_access_status": "permission_denied",
+      "keywords": "RSA ElGamal DH Diffie Hellman PKE 非对称 公钥"
+    },
+    {
+      "title": "Lecture 4 - PKE.pdf",
+      "path": "materials/official/lectures/lecture-04/slides/Lecture 4 - PKE.pdf",
+      "url": "materials/official/lectures/lecture-04/slides/Lecture%204%20-%20PKE.pdf",
+      "category": "课件",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "e0e60903c3008dd7acfc199ba5d69f85e873af6ae1917460a1f78c2813d8e122",
+      "size": 596375,
+      "canvas_file_ids": [
+        "16067571"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067571"
+      ],
+      "remote_updated_at": "2026-10-14T10:33:04Z",
+      "current_access_status": "permission_denied",
+      "keywords": "RSA ElGamal DH Diffie Hellman PKE 非对称 公钥"
+    },
+    {
+      "title": "Lecture 5 - Signature-Hash-MAC - Notes.pdf",
+      "path": "materials/official/lectures/lecture-05/notes/Lecture 5 - Signature-Hash-MAC - Notes.pdf",
+      "url": "materials/official/lectures/lecture-05/notes/Lecture%205%20-%20Signature-Hash-MAC%20-%20Notes.pdf",
+      "category": "教师讲义",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "eb263dcdeaa22a9ad45447850301f8fc8cc501603ad0f52c3a1853452383e346",
+      "size": 956329,
+      "canvas_file_ids": [
+        "16067696"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067696"
+      ],
+      "remote_updated_at": "2026-10-14T10:33:26Z",
+      "current_access_status": "permission_denied",
+      "keywords": "hash MAC HMAC signature integrity 哈希 签名 完整性"
+    },
+    {
+      "title": "Lecture 5 - Signature-Hash-MAC.pdf",
+      "path": "materials/official/lectures/lecture-05/slides/Lecture 5 - Signature-Hash-MAC.pdf",
+      "url": "materials/official/lectures/lecture-05/slides/Lecture%205%20-%20Signature-Hash-MAC.pdf",
+      "category": "课件",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "6ccfcac2a44aa134100dc7853d69e90bcabc0b94e4f948b981cafc2d4c4741c5",
+      "size": 924010,
+      "canvas_file_ids": [
+        "16067695"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067695"
+      ],
+      "remote_updated_at": "2026-10-14T10:33:21Z",
+      "current_access_status": "permission_denied",
+      "keywords": "hash MAC HMAC signature integrity 哈希 签名 完整性"
+    },
+    {
+      "title": "Lecture 6- Authentication - Notes.pdf",
+      "path": "materials/official/lectures/lecture-06/notes/Lecture 6- Authentication - Notes.pdf",
+      "url": "materials/official/lectures/lecture-06/notes/Lecture%206-%20Authentication%20-%20Notes.pdf",
+      "category": "教师讲义",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "3a6b728fb0de456ff6d4c59d51ac8aa123b33e46cab0f56d63537a8d27aeda7a",
+      "size": 791260,
+      "canvas_file_ids": [
+        "16293462"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16293462"
+      ],
+      "remote_updated_at": "2026-10-17T09:59:23Z",
+      "current_access_status": "downloaded",
+      "keywords": "authentication password 认证 密码"
+    },
+    {
+      "title": "Lecture 6- Authentication - Slides.pptx",
+      "path": "materials/official/lectures/lecture-06/slides/Lecture 6- Authentication - Slides.pptx",
+      "url": "materials/official/lectures/lecture-06/slides/Lecture%206-%20Authentication%20-%20Slides.pptx",
+      "category": "课件",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "7c78e8a92e5c49f7a4601f8909e4631b81aab9aa87cdb4f997b57e7eb2ccb769",
+      "size": 248741,
+      "canvas_file_ids": [
+        "16284055"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16284055"
+      ],
+      "remote_updated_at": "2026-10-16T03:59:17Z",
+      "current_access_status": "downloaded",
+      "keywords": "authentication password 认证 密码"
+    },
+    {
+      "title": "Lecture 6- Authentication.pdf",
+      "path": "materials/official/lectures/lecture-06/slides/Lecture 6- Authentication.pdf",
+      "url": "materials/official/lectures/lecture-06/slides/Lecture%206-%20Authentication.pdf",
+      "category": "课件",
+      "weeks": [],
+      "week_basis": "Canvas 未明确对应授课周，按 Lecture 主题归档",
+      "sha256": "c0d204f498b2da2de438fab04d11680d3b271be2aad4ea37f2958259c7671e61",
+      "size": 679263,
+      "canvas_file_ids": [
+        "16284057"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16284057"
+      ],
+      "remote_updated_at": "2026-10-16T04:04:35Z",
+      "current_access_status": "downloaded",
+      "keywords": "authentication password 认证 密码"
+    },
+    {
+      "title": "MD5 flaw pops up in Australian traffic court - CNET.pdf",
+      "path": "materials/official/readings/integrity/MD5 flaw pops up in Australian traffic court - CNET.pdf",
+      "url": "materials/official/readings/integrity/MD5%20flaw%20pops%20up%20in%20Australian%20traffic%20court%20-%20CNET.pdf",
+      "category": "补充阅读",
+      "weeks": [],
+      "week_basis": "关联 Lecture 5，未明确周次",
+      "sha256": "72b9cd07db35ed1be9527062e1ef5c0f59f8b3a6e3391b0254f5186a4aeab619",
+      "size": 214108,
+      "canvas_file_ids": [
+        "15856204"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15856204"
+      ],
+      "remote_updated_at": "2026-10-18T05:15:55Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "NSW speed cameras in doubt - National - theage.com.pdf",
+      "path": "materials/official/readings/integrity/NSW speed cameras in doubt - National - theage.com.pdf",
+      "url": "materials/official/readings/integrity/NSW%20speed%20cameras%20in%20doubt%20-%20National%20-%20theage.com.pdf",
+      "category": "补充阅读",
+      "weeks": [],
+      "week_basis": "关联 Lecture 5，未明确周次",
+      "sha256": "96eaa87e2eb245b38d12d233aee92d6da47ce61d8cf7daeeb3836c354bf26c5f",
+      "size": 104628,
+      "canvas_file_ids": [
+        "15856206"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15856206"
+      ],
+      "remote_updated_at": "2026-10-18T05:15:23Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "Lecture 1 - Reading.pdf",
+      "path": "materials/official/readings/introduction/Lecture 1 - Reading.pdf",
+      "url": "materials/official/readings/introduction/Lecture%201%20-%20Reading.pdf",
+      "category": "补充阅读",
+      "weeks": [
+        1
+      ],
+      "week_basis": "关联 Week 1 Lecture 1",
+      "sha256": "6d4484c5e6fdab4ee1dfaa53dbb2db9f2492391e5d64066ae63eabe3a3465b87",
+      "size": 780125,
+      "canvas_file_ids": [
+        "15856214"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15856214"
+      ],
+      "remote_updated_at": "2026-09-07T05:20:11Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "Breaking Down Number Theory Notes.pdf",
+      "path": "materials/official/readings/number-theory/Breaking Down Number Theory Notes.pdf",
+      "url": "materials/official/readings/number-theory/Breaking%20Down%20Number%20Theory%20Notes.pdf",
+      "category": "补充阅读",
+      "weeks": [],
+      "week_basis": "Lecture 3 补充讲义，未明确周次",
+      "sha256": "13a02d8be4e47e920bc0616afa92f4c8511efd8fbc35515f6f73f37c09739ffe",
+      "size": 398859,
+      "canvas_file_ids": [
+        "15856200"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15856200"
+      ],
+      "remote_updated_at": "2026-09-22T09:45:21Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "Weekly Reading 2.pdf",
+      "path": "materials/official/readings/symmetric-encryption/Weekly Reading 2.pdf",
+      "url": "materials/official/readings/symmetric-encryption/Weekly%20Reading%202.pdf",
+      "category": "阅读答案",
+      "weeks": [
+        2,
+        3
+      ],
+      "week_basis": "关联 Lecture 2（Week 2–3），非另行确认的阅读截止周",
+      "sha256": "780d8f582768428cce5e655528d82b349b8e04c52a72792b0a069d40dcd8e989",
+      "size": 402999,
+      "canvas_file_ids": [
+        "16111947"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16111947"
+      ],
+      "remote_updated_at": "2026-09-28T10:41:45Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "Exercise 1.pdf",
+      "path": "materials/official/tutorials/tutorial-01/questions/Exercise 1.pdf",
+      "url": "materials/official/tutorials/tutorial-01/questions/Exercise%201.pdf",
+      "category": "课堂练习",
+      "weeks": [
+        2
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "9a90833c1f8c80aa00a1971b4259f520f56fb1f187e9a478eab783b15b59bbc1",
+      "size": 102063,
+      "canvas_file_ids": [
+        "15856256"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15856256"
+      ],
+      "remote_updated_at": "2026-09-07T05:20:10Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "Exercise 1 + Weekly Reading Solutions.pdf",
+      "path": "materials/official/tutorials/tutorial-01/solutions/Exercise 1 + Weekly Reading Solutions.pdf",
+      "url": "materials/official/tutorials/tutorial-01/solutions/Exercise%201%20%2B%20Weekly%20Reading%20Solutions.pdf",
+      "category": "练习答案",
+      "weeks": [
+        2
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "02d8d41a189572b1d99c50096f3a528253f85631982756117d13dd5d9fb9d2b1",
+      "size": 319643,
+      "canvas_file_ids": [
+        "15993949"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/15993949"
+      ],
+      "remote_updated_at": "2026-09-12T07:18:27Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "ex02.pdf",
+      "path": "materials/official/tutorials/tutorial-02/questions/ex02.pdf",
+      "url": "materials/official/tutorials/tutorial-02/questions/ex02.pdf",
+      "category": "课堂练习",
+      "weeks": [
+        3
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "6513788395f0e472c0f14de80a9759833cc45eff3ffd2ad8d24f3b50e8ff7d47",
+      "size": 74280,
+      "canvas_file_ids": [
+        "16039125"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16039125"
+      ],
+      "remote_updated_at": "2026-09-17T22:16:27Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "ex02_sol.pdf",
+      "path": "materials/official/tutorials/tutorial-02/solutions/ex02_sol.pdf",
+      "url": "materials/official/tutorials/tutorial-02/solutions/ex02_sol.pdf",
+      "category": "练习答案",
+      "weeks": [
+        3
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "86d5b1f255ad4c78f5723f0196dda57f30532072eb6765d549bc6badaf704995",
+      "size": 575327,
+      "canvas_file_ids": [
+        "16045419"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16045419"
+      ],
+      "remote_updated_at": "2026-09-18T13:07:10Z",
+      "current_access_status": "downloaded",
+      "keywords": ""
+    },
+    {
+      "title": "ex03.pdf",
+      "path": "materials/official/tutorials/tutorial-03/questions/ex03.pdf",
+      "url": "materials/official/tutorials/tutorial-03/questions/ex03.pdf",
+      "category": "课堂练习",
+      "weeks": [
+        5
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "a6bdd4462bf37951221caaa58e894e10e4c89e4d3404ab4954a881ea9a073b96",
+      "size": 104544,
+      "canvas_file_ids": [
+        "16067035"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067035"
+      ],
+      "remote_updated_at": "2026-10-14T10:30:40Z",
+      "current_access_status": "permission_denied",
+      "keywords": ""
+    },
+    {
+      "title": "ex03_sol.pdf",
+      "path": "materials/official/tutorials/tutorial-03/solutions/ex03_sol.pdf",
+      "url": "materials/official/tutorials/tutorial-03/solutions/ex03_sol.pdf",
+      "category": "练习答案",
+      "weeks": [
+        5
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "6adbc9f4c00848d7e25429d12b1063f303689e7f66772f26cb4bbb17358c9592",
+      "size": 1703909,
+      "canvas_file_ids": [
+        "16177984"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16177984"
+      ],
+      "remote_updated_at": "2026-10-12T09:30:00Z",
+      "current_access_status": "permission_denied",
+      "keywords": ""
+    },
+    {
+      "title": "ex04.pdf",
+      "path": "materials/official/tutorials/tutorial-04/questions/ex04.pdf",
+      "url": "materials/official/tutorials/tutorial-04/questions/ex04.pdf",
+      "category": "课堂练习",
+      "weeks": [
+        6
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "b0caf36a1eed5169c05a9d41e40f313343dbd63661f1834244697f104fc226a8",
+      "size": 75700,
+      "canvas_file_ids": [
+        "16067431"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067431"
+      ],
+      "remote_updated_at": "2026-10-14T10:32:38Z",
+      "current_access_status": "permission_denied",
+      "keywords": ""
+    },
+    {
+      "title": "ex04_sol.pdf",
+      "path": "materials/official/tutorials/tutorial-04/solutions/ex04_sol.pdf",
+      "url": "materials/official/tutorials/tutorial-04/solutions/ex04_sol.pdf",
+      "category": "练习答案",
+      "weeks": [
+        6
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "12ecf079f5a9181db227a4caba79c3a519d8e828bae2d142c46871611cfcc1af",
+      "size": 969604,
+      "canvas_file_ids": [
+        "16246702"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16246702"
+      ],
+      "remote_updated_at": "2026-10-12T11:09:02Z",
+      "current_access_status": "permission_denied",
+      "keywords": ""
+    },
+    {
+      "title": "ex05.pdf",
+      "path": "materials/official/tutorials/tutorial-05/questions/ex05.pdf",
+      "url": "materials/official/tutorials/tutorial-05/questions/ex05.pdf",
+      "category": "课堂练习",
+      "weeks": [
+        7
+      ],
+      "week_basis": "Canvas 课程页面注明 Tutorial 周次",
+      "sha256": "eeb88fc623fb98dbeb3c362e493e4986cc5e15aed46922711b3d65c620786e87",
+      "size": 116922,
+      "canvas_file_ids": [
+        "16067700"
+      ],
+      "source_urls": [
+        "https://canvas.cityu.edu.hk/courses/72493/files/16067700"
+      ],
+      "remote_updated_at": "2026-10-21T10:08:52Z",
+      "current_access_status": "permission_denied",
+      "keywords": ""
+    }
+  ],
+  "coverage": "课程 files 总列表权限拒绝；通过可读页面、作业引用及既有下载索引归集，不代表已获得所有远端文件。",
+  "exclusions": [
+    {
+      "name": "SEEDLabVM_key.pem",
+      "reason": "访问私钥，仅本地保留"
+    },
+    {
+      "name": "VM_Guide_V3.pdf",
+      "reason": "原件含 VM 连接凭据，仅本地保留；请从 Canvas 获取"
+    },
+    {
+      "name": "VNC-Viewer-7.13.1-MacOSX-universal.dmg",
+      "reason": "安装程序或超大文件；不纳入资料网站，请从 Canvas/厂商获取"
+    },
+    {
+      "name": "VNC-Viewer-7.15.1-Windows.exe",
+      "reason": "安装程序或超大文件；不纳入资料网站，请从 Canvas/厂商获取"
+    }
+  ],
+  "source_issues": [
+    {
+      "endpoint": "/courses/72493/files/11040779",
+      "kind": "not_found",
+      "http_status": 404
+    }
+  ]
+}
