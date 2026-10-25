@@ -11,7 +11,7 @@
   "courses": [
     {
       "code": "CS5285",
-      "name": "Information Security",
+      "name": "Introduction to Cybersecurity",
       "count": 35,
       "site_url": "../CS5285/",
       "repo_url": "https://github.com/Famalhaut04/CS5285"
