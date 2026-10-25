@@ -1,32 +1,34 @@
 # CS5285
 
-CityU CS5285 · Semester A 2026/27。个人课程资料网站，供日常学习和后续同学参考。
+CityU · Semester A 2026/27 · Canvas 课程资料原件与明确标注的课程内容快照。
 
-**[打开资料网站](https://famalhaut04.github.io/CS5285/)** · [资料总目录](CATALOG.md) · [每周索引](weeks/README.md) · [外部历年题参考](references/README.md)
+**[打开课程资料网站](https://famalhaut04.github.io/CS5285/)** · [历年期中与期末入口](exams.html) · [统一课程入口](https://famalhaut04.github.io/CityU-Course-Materials/) · [完整目录](CATALOG.md)
 
-## 分类
+截至 2026-10-26，本次收录 35 项；其中原始附件 32 项，Canvas 说明快照 3 项。不是远端全量资料承诺。
 
-| 目录 | 内容 |
-|---|---|
-| `materials/official/lectures/` | 课件 slides 与教师讲义 notes |
-| `materials/official/tutorials/` | 课堂练习 questions 与教师答案 solutions |
-| `materials/official/assignments/` | 计分作业题目、官方答案、附件和作业说明 |
-| `materials/official/readings/` | 必读或兴趣阅读、阅读答案 |
-| `materials/official/exams/` | 考试说明与有来源的考试材料 |
-| `materials/official/course-pages/` | Canvas 课程页面文字快照 |
-| `weeks/` | Week 01–13 的资料入口；不按 Lecture 编号猜周次 |
-| `references/` | 2025/26 外部参考仓库与历年题链接 |
+## 分类与下载
 
-`Assignment` 就是计分作业；`Exercise/Tutorial` 是课堂练习，二者分开。教师答案另分 `solutions/`，不含本人的提交答案。
+|分类|数量|
+|---|---:|
+|课件与教师讲义|14|
+|课堂练习题目|5|
+|课堂练习教师答案|4|
+|计分作业原题与模板|2|
+|计分作业官方答案|1|
+|数据与配套附件|1|
+|阅读与案例材料|5|
+|Canvas 作业说明快照|3|
 
-## 当前归集
+文件可在网站预览或单独下载；分类 ZIP 与全课 ZIP 见 [Releases](https://github.com/Famalhaut04/CS5285/releases)。每个版本的压缩包只包含对应 catalog 中列出的资料。
 
-更新日期：2026-10-23。共 51 项文件/页面，附件按 SHA-256 去重。原件均保留内容；逐项来源、哈希与周次依据见 [materials.json](materials.json)。
+课堂练习和计分作业分开；教师官方答案单独标记。没有收录个人作业提交、个人报告、个人解答或 AI 扩写笔记。作业说明快照是 Canvas 页面文字的归档，不等于原题附件；附件未归集时请回原 Canvas 页面查看。
 
-课程 files 总列表权限拒绝；通过可读页面、作业引用及既有下载索引归集，不代表已获得所有远端文件。
+## 历年题补充
 
-私钥、含连接密码的 VM 指南及安装程序只在本地保留，排除清单见 [CATALOG.md](CATALOG.md)。当前网站只整理本次已获取内容，不自动抓取或同步学校资料。
+[历年题维护说明](exams/README.md)规定了来源、年份、学期、类型与答案角色的填写方式。仅有明确依据才归为期中或期末真题；模拟题、样题和考试通知分别标记，年份不明保留为待确认。目前不从个人文件夹或外部仓库补入来源未核实试卷。
 
-后续更新可通过 CanvasWeeklyHub 手动下载，再核对来源和周次。下载记录与账号配置留在本地，不提交到仓库。
+## 来源与维护
 
-请阅读[资料来源及使用说明](NOTICE.md)。后续学生以自己学年的教师要求为准。
+原始附件按 SHA256 去重并保留内容。逐项 Canvas 来源与文件哈希见 [catalog.json](catalog.json)。本站为非官方整理；后续学年以本年教师要求为准。参阅 [NOTICE.md](NOTICE.md)。
+
+原 [materials.json](materials.json)、`materials/official/` 与每周索引保留，既有附件链接不变；新网站读取统一格式 catalog.json。旧清单中的课程页面快照不列入本次新增下载包。
